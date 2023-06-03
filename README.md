@@ -11,6 +11,4 @@ TCP 6/7
 UDP 1/6
 ```
 
-UDP u automatických testů nefungovalo, u mých ručních jo. Důvod neznámý.
-
-Project2 TBD
+Project2 11/20
